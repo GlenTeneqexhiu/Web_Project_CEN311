@@ -185,7 +185,7 @@ if(isset($_GET['logout'])){
              </div>
              <div class="page-info" style="color:darksalmon;">
                  © 2022 Bag.com | All rights reserved.<br><br>
-               <a class="email" href="mailto:ameta20@epoka.edu.al">Email</a>
+               <a class="email" href="mailto:ddelvina21@epoka.edu.al">Email</a>
              </div>
   </div>
 
